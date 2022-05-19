@@ -2,7 +2,7 @@
 
 # Strings
 
-@string = "string"
+@string = "Hello world"
 puts @string
 
 # Concatenation
