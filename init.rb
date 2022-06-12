@@ -1,7 +1,7 @@
 
 
 # Strings
-
+# Variables @
 @string = "Hello world"
 puts @string
 
